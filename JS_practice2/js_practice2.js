@@ -27,19 +27,28 @@
 // // 6. Дан масив ['js', 'css', 'jq']. Виведіть на екран останній елемент за допомогою pop()
 // let array6=['js', 'css', 'jq'];
 // console.log(array5.pop(array6.length));
-
+//
 // 7. - Дан масив [1, 2, 3, 4, 5]. За допомогою методу/функції slice перетворіть масив в [4, 5].
-// let array7 = [1, 2, 3, 4, 5];
-// console.log(array7.slice(3, 5));
+let array7 = [1, 2, 3, 4, 5];
+console.log(array7.slice(3, 5));
 
 // 8. - Дан масив [1, 2, 3, 4, 5]. За допомогою методу/функції slice перетворіть масив в [1,2].
-// let array8 = [1, 2, 3, 4, 5];
-// console.log(array8.slice(0, 2));
+let array8 = [1, 2, 3, 4, 5];
+console.log(array8.slice(0, 2));
 
-for (let min = 0; min < 2; min++) {
-    for (let sec = 0; sec < 60; sec++) {
-        console.log('min:', min);
-        console.log('sec', sec);
-    }
+// 9. - Дан масив [1, 2, 3, 4, 5]. За допомогою методу/функції splice перетворіть масив в [1, 4, 5].
+let array9 = [1, 2, 3, 4, 5];
+array9.splice(1, 2);
+console.log(array9);
 
-}
+// 10. - Дан масив [1, 2, 3, 4, 5]. За допомогою методу/функції splice зробіть з нього масив [1, 2, 3, 'a', 'b', 'c', 4, 5].
+let array10 = [1, 2, 3, 4, 5];
+array10.splice(3, 0, 'a', 'b', 'c');
+console.log(array10);
+
+// 11. - Дан масив [1, 2, 3, 4, 5]. За допомогою методу/функції splice зробіть з нього масив [1, 'a', 'b', 2, 3, 4, 'c', 5, 'e'].
+let array11 = [1, 2, 3, 4, 5];
+array11.splice(1,0,'a', 'b');
+array11.splice(6,0,'c');
+array11.splice(8,0,'e');
+console.log(array11);

@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bcd470b5-2f14-40de-a575-e9f567185937" name="Default Changelist" comment="" />
+    <list default="true" id="bcd470b5-2f14-40de-a575-e9f567185937" name="Default Changelist" comment="js_hw2 1.-11.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS-hw2/js_hw2.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS-hw2/js_hw2.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +37,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/JS-hw2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -54,7 +57,7 @@
       <workItem from="1603816405470" duration="5829000" />
       <workItem from="1603880083320" duration="4467000" />
       <workItem from="1603951410545" duration="723000" />
-      <workItem from="1603956173574" duration="15139000" />
+      <workItem from="1603956173574" duration="19866000" />
     </task>
     <task id="LOCAL-00001" summary="practice1 - 5 і 6">
       <created>1603816995148</created>
@@ -126,7 +129,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603992157549</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="js_hw2">
+      <created>1603992211324</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1603992211324</updated>
+    </task>
+    <task id="LOCAL-00012" summary="js_hw2 1.-11.">
+      <created>1604002326013</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1604002326013</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,25 +158,26 @@
     <MESSAGE value="js_hw2 1.-7." />
     <MESSAGE value="js_hw2 1.-9." />
     <MESSAGE value="js_hw2" />
-    <option name="LAST_COMMIT_MESSAGE" value="js_hw2" />
+    <MESSAGE value="js_hw2 1.-11." />
+    <option name="LAST_COMMIT_MESSAGE" value="js_hw2 1.-11." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="617" y="0" key="CommitChangelistDialog2" timestamp="1603992157022">
+    <state x="617" y="0" key="CommitChangelistDialog2" timestamp="1604002706877">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state x="617" y="0" key="CommitChangelistDialog2/0.0.1366.740@0.0.1366.740" timestamp="1603992157022" />
+    <state x="617" y="0" key="CommitChangelistDialog2/0.0.1366.740@0.0.1366.740" timestamp="1604002706877" />
     <state x="258" y="55" key="DiffContextDialog" timestamp="1603976704867">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
     <state x="258" y="55" key="DiffContextDialog/0.0.1366.740@0.0.1366.740" timestamp="1603976704867" />
-    <state x="501" y="206" key="FileChooserDialogImpl" timestamp="1603976662686">
+    <state x="501" y="206" key="FileChooserDialogImpl" timestamp="1604002666278">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state x="501" y="206" key="FileChooserDialogImpl/0.0.1366.740@0.0.1366.740" timestamp="1603976662686" />
-    <state x="560" y="271" key="Github.ShareDialog" timestamp="1603989119111">
+    <state x="501" y="206" key="FileChooserDialogImpl/0.0.1366.740@0.0.1366.740" timestamp="1604002666278" />
+    <state x="560" y="271" key="Github.ShareDialog" timestamp="1604002742864">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state x="560" y="271" key="Github.ShareDialog/0.0.1366.740@0.0.1366.740" timestamp="1603989119111" />
+    <state x="560" y="271" key="Github.ShareDialog/0.0.1366.740@0.0.1366.740" timestamp="1604002742864" />
     <state x="544" y="98" key="Github.UntrackedFilesDialog" timestamp="1603989167914">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
@@ -168,10 +186,10 @@
       <screen x="0" y="0" width="1366" height="740" />
     </state>
     <state x="0" y="2" key="SettingsEditor/0.0.1366.740@0.0.1366.740" timestamp="1603992204812" />
-    <state x="218" y="166" key="Vcs.Push.Dialog.v2" timestamp="1603992160620">
+    <state x="218" y="166" key="Vcs.Push.Dialog.v2" timestamp="1604002525054">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state x="218" y="166" key="Vcs.Push.Dialog.v2/0.0.1366.740@0.0.1366.740" timestamp="1603992160620" />
+    <state x="218" y="166" key="Vcs.Push.Dialog.v2/0.0.1366.740@0.0.1366.740" timestamp="1604002525054" />
     <state x="444" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603976871956">
       <screen x="0" y="0" width="1366" height="740" />
     </state>

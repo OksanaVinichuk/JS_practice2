@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bcd470b5-2f14-40de-a575-e9f567185937" name="Default Changelist" comment="js_hw2">
+      <change afterPath="$PROJECT_DIR$/.idea/JS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_practice2/js_practice2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_practice2/js_practice2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS-hw2/js_hw2.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS-hw2/js_hw2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_hw1/js_hw1.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_hw1/js_hw1.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1jT7ojbyqkCAdzs6cB0d2u6QY9O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory&#10;repository" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JS-hw2" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="js_hw2.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS-hw2/js_hw2.js" working-dir="$PROJECT_DIR$/JS-hw2">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bcd470b5-2f14-40de-a575-e9f567185937" name="Default Changelist" comment="" />
+      <created>1603816404434</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603816404434</updated>
+      <workItem from="1603816405470" duration="5829000" />
+      <workItem from="1603880083320" duration="4467000" />
+      <workItem from="1603951410545" duration="723000" />
+      <workItem from="1603956173574" duration="14895000" />
+    </task>
+    <task id="LOCAL-00001" summary="practice1 - 5 і 6">
+      <created>1603816995148</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603816995148</updated>
+    </task>
+    <task id="LOCAL-00002" summary="practice1 - 3-10;">
+      <created>1603819902441</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603819902441</updated>
+    </task>
+    <task id="LOCAL-00003" summary="practice1 - 1.-10.;">
+      <created>1603868219523</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603868219523</updated>
+    </task>
+    <task id="LOCAL-00004" summary="JS_practice1 1.-10.">
+      <created>1603880521586</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603880521586</updated>
+    </task>
+    <task id="LOCAL-00005" summary="js_hw2">
+      <created>1603976784381</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603976784381</updated>
+    </task>
+    <task id="LOCAL-00006" summary="js_hw2 1.-4.">
+      <created>1603981581254</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603981581254</updated>
+    </task>
+    <task id="LOCAL-00007" summary="js_hw2 1.-7.">
+      <created>1603983148139</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1603983148139</updated>
+    </task>
+    <task id="LOCAL-00008" summary="js_hw2 1.-9.">
+      <created>1603983852744</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1603983852744</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="practice1 - 5 і 6" />
+    <MESSAGE value="practice1 - 3-10;" />
+    <MESSAGE value="practice1 - 1.-10.;" />
+    <MESSAGE value="JS_practice1 1.-10." />
+    <MESSAGE value="js_hw2" />
+    <MESSAGE value="js_hw2 1.-4." />
+    <MESSAGE value="js_hw2 1.-7." />
+    <MESSAGE value="js_hw2 1.-9." />
+    <option name="LAST_COMMIT_MESSAGE" value="js_hw2 1.-9." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="617" y="0" key="CommitChangelistDialog2" timestamp="1603989224228">
+      <screen x="0" y="0" width="1366" height="740" />
+    </state>
+    <state x="617" y="0" key="CommitChangelistDialog2/0.0.1366.740@0.0.1366.740" timestamp="1603989224228" />
+    <state x="258" y="55" key="DiffContextDialog" timestamp="1603976704867">
+      <screen x="0" y="0" width="1366" height="740" />
+    </state>
+    <state x="258" y="55" key="DiffContextDialog/0.0.1366.740@0.0.1366.740" timestamp="1603976704867" />
+    <state x="501" y="206" key="FileChooserDialogImpl" timestamp="1603976662686">
+      <screen x="0" y="0" width="1366" height="740" />
+    </state>
+    <state x="501" y="206" key="FileChooserDialogImpl/0.0.1366.740@0.0.1366.740" timestamp="1603976662686" />
+    <state x="560" y="271" key="Github.ShareDialog" timestamp="1603989119111">
+      <screen x="0" y="0" width="1366" height="740" />
+    </state>
+    <state x="560" y="271" key="Github.ShareDialog/0.0.1366.740@0.0.1366.740" timestamp="1603989119111" />
+    <state x="544" y="98" key="Github.UntrackedFilesDialog" timestamp="1603989167914">
+      <screen x="0" y="0" width="1366" height="740" />
+    </state>
+    <state x="544" y="98" key="Github.UntrackedFilesDialog/0.0.1366.740@0.0.1366.740" timestamp="1603989167914" />
+    <state x="218" y="166" key="Vcs.Push.Dialog.v2" timestamp="1603983857137">
+      <screen x="0" y="0" width="1366" height="740" />
+    </state>
+    <state x="218" y="166" key="Vcs.Push.Dialog.v2/0.0.1366.740@0.0.1366.740" timestamp="1603983857137" />
+    <state x="444" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603976871956">
+      <screen x="0" y="0" width="1366" height="740" />
+    </state>
+    <state x="444" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.740@0.0.1366.740" timestamp="1603976871956" />
+    <state x="339" y="176" key="run.anything.popup" timestamp="1603991927816">
+      <screen x="0" y="0" width="1366" height="740" />
+    </state>
+    <state x="339" y="176" key="run.anything.popup/0.0.1366.740@0.0.1366.740" timestamp="1603991927816" />
+    <state x="396" y="61" width="672" height="678" key="search.everywhere.popup" timestamp="1603818692196">
+      <screen x="0" y="0" width="1366" height="740" />
+    </state>
+    <state x="396" y="61" width="672" height="678" key="search.everywhere.popup/0.0.1366.740@0.0.1366.740" timestamp="1603818692196" />
+  </component>
+</project>

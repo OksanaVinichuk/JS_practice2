@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bcd470b5-2f14-40de-a575-e9f567185937" name="Default Changelist" comment="js_hw2">
-      <change afterPath="$PROJECT_DIR$/.idea/JS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS_practice2/js_practice2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS_practice2/js_practice2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS-hw2/js_hw2.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS-hw2/js_hw2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_hw1/js_hw1.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_hw1/js_hw1.js" afterDir="false" />
-    </list>
+    <list default="true" id="bcd470b5-2f14-40de-a575-e9f567185937" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +19,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="2aa73293-5aed-4bf1-93c2-1e1df1a5091e" />
+  </component>
   <component name="ProjectId" id="1jT7ojbyqkCAdzs6cB0d2u6QY9O" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -43,6 +35,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/JS-hw2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -61,7 +54,7 @@
       <workItem from="1603816405470" duration="5829000" />
       <workItem from="1603880083320" duration="4467000" />
       <workItem from="1603951410545" duration="723000" />
-      <workItem from="1603956173574" duration="14895000" />
+      <workItem from="1603956173574" duration="15139000" />
     </task>
     <task id="LOCAL-00001" summary="practice1 - 5 і 6">
       <created>1603816995148</created>
@@ -119,7 +112,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603983852744</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="js_hw2">
+      <created>1603992097832</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1603992097832</updated>
+    </task>
+    <task id="LOCAL-00010" summary="js_hw2">
+      <created>1603992157549</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1603992157549</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,17 +137,17 @@
     <MESSAGE value="practice1 - 3-10;" />
     <MESSAGE value="practice1 - 1.-10.;" />
     <MESSAGE value="JS_practice1 1.-10." />
-    <MESSAGE value="js_hw2" />
     <MESSAGE value="js_hw2 1.-4." />
     <MESSAGE value="js_hw2 1.-7." />
     <MESSAGE value="js_hw2 1.-9." />
-    <option name="LAST_COMMIT_MESSAGE" value="js_hw2 1.-9." />
+    <MESSAGE value="js_hw2" />
+    <option name="LAST_COMMIT_MESSAGE" value="js_hw2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="617" y="0" key="CommitChangelistDialog2" timestamp="1603989224228">
+    <state x="617" y="0" key="CommitChangelistDialog2" timestamp="1603992157022">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state x="617" y="0" key="CommitChangelistDialog2/0.0.1366.740@0.0.1366.740" timestamp="1603989224228" />
+    <state x="617" y="0" key="CommitChangelistDialog2/0.0.1366.740@0.0.1366.740" timestamp="1603992157022" />
     <state x="258" y="55" key="DiffContextDialog" timestamp="1603976704867">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
@@ -157,10 +164,14 @@
       <screen x="0" y="0" width="1366" height="740" />
     </state>
     <state x="544" y="98" key="Github.UntrackedFilesDialog/0.0.1366.740@0.0.1366.740" timestamp="1603989167914" />
-    <state x="218" y="166" key="Vcs.Push.Dialog.v2" timestamp="1603983857137">
+    <state x="0" y="2" key="SettingsEditor" timestamp="1603992204812">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state x="218" y="166" key="Vcs.Push.Dialog.v2/0.0.1366.740@0.0.1366.740" timestamp="1603983857137" />
+    <state x="0" y="2" key="SettingsEditor/0.0.1366.740@0.0.1366.740" timestamp="1603992204812" />
+    <state x="218" y="166" key="Vcs.Push.Dialog.v2" timestamp="1603992160620">
+      <screen x="0" y="0" width="1366" height="740" />
+    </state>
+    <state x="218" y="166" key="Vcs.Push.Dialog.v2/0.0.1366.740@0.0.1366.740" timestamp="1603992160620" />
     <state x="444" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603976871956">
       <screen x="0" y="0" width="1366" height="740" />
     </state>

@@ -8,10 +8,26 @@ myDrinks('coffee', 'without anything', 'in the afternoon');
 myDrinks('wine', '', 'in the evening');
 
 // 2. - створити функцію яка заповнює масив рандомними числами та виводить його. Для виведення використати попвередню функцію.
-function randomNumers('a','b','c') {
-    function myDrinks()
+function randomNumers(){
+    const myDrinks = [];
+    for(let i=0; i<10; i++) {
+        myDrinks.push(Math.random())
+    }
+    console.log(randomNumers);
 }
+
 // 3. - створити функцію яка приймає три числа та виводить та повертає найменьше.
+function f() {
+    const array = [];
+
+    for(let i=0; i<3; i++){
+        if (array[i]<array[i+1]&array[i]<array[i+2]) {
+            return array[i];
+            console.log(array)
+        }
+    }
+}
+
 // 4. - створити функцію яка приймає три числа та виводить та повертає найбільше.
 // 5. - створити функцію яка приймає будь-яку кількість чисел, повертає найменьше, а виводить найбільше
 // 6. - створити функцію яка виводить масив

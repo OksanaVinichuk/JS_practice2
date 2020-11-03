@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bcd470b5-2f14-40de-a575-e9f567185937" name="Default Changelist" comment="">
+    <list default="true" id="bcd470b5-2f14-40de-a575-e9f567185937" name="Default Changelist" comment="js_hw3">
+      <change afterPath="$PROJECT_DIR$/JS_practice3/js_practice3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_practice3/template_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_practice2/js_practice2.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_practice2/js_practice2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS-hw4/js_hw4.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS-hw4/js_hw4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_practice1/js_practice1.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_practice1/js_practice1.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +29,9 @@
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="2aa73293-5aed-4bf1-93c2-1e1df1a5091e" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="showPreview" value="true" />
+  </component>
   <component name="ProjectId" id="1jT7ojbyqkCAdzs6cB0d2u6QY9O" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -37,7 +44,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JS_hw3" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -57,7 +64,8 @@
       <workItem from="1603816405470" duration="5829000" />
       <workItem from="1603880083320" duration="4467000" />
       <workItem from="1603951410545" duration="723000" />
-      <workItem from="1603956173574" duration="30753000" />
+      <workItem from="1603956173574" duration="41108000" />
+      <workItem from="1604298937492" duration="34968000" />
     </task>
     <task id="LOCAL-00001" summary="practice1 - 5 і 6">
       <created>1603816995148</created>
@@ -171,7 +179,42 @@
       <option name="project" value="LOCAL" />
       <updated>1604042639025</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="js_prctice2 1.-14.">
+      <created>1604043864856</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1604043864856</updated>
+    </task>
+    <task id="LOCAL-00018" summary="js_hw2.js 1.-14.+2додаткових">
+      <created>1604051421262</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1604051421262</updated>
+    </task>
+    <task id="LOCAL-00019" summary="js_hw1 1.-13.">
+      <created>1604060318562</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1604060318562</updated>
+    </task>
+    <task id="LOCAL-00020" summary="js_hw3">
+      <created>1604391407960</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1604391407960</updated>
+    </task>
+    <task id="LOCAL-00021" summary="js_hw4">
+      <created>1604396992216</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1604396992216</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,48 +234,53 @@
     <MESSAGE value="js_hw2 1.-12.+ 20.-21." />
     <MESSAGE value="js_hw2 1.-16.+ 20.-21." />
     <MESSAGE value="js_hw2 1.-20." />
-    <option name="LAST_COMMIT_MESSAGE" value="js_hw2 1.-20." />
+    <MESSAGE value="js_prctice2 1.-14." />
+    <MESSAGE value="js_hw2.js 1.-14.+2додаткових" />
+    <MESSAGE value="js_hw1 1.-13." />
+    <MESSAGE value="js_hw3" />
+    <MESSAGE value="js_hw4" />
+    <option name="LAST_COMMIT_MESSAGE" value="js_hw4" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="617" y="0" key="CommitChangelistDialog2" timestamp="1604042637729">
+    <state x="617" y="8" width="745" height="732" key="CommitChangelistDialog2" timestamp="1604396990933">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state x="617" y="0" key="CommitChangelistDialog2/0.0.1366.740@0.0.1366.740" timestamp="1604042637729" />
+    <state x="617" y="8" width="745" height="732" key="CommitChangelistDialog2/0.0.1366.740@0.0.1366.740" timestamp="1604396990933" />
     <state x="258" y="55" key="DiffContextDialog" timestamp="1603976704867">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
     <state x="258" y="55" key="DiffContextDialog/0.0.1366.740@0.0.1366.740" timestamp="1603976704867" />
-    <state x="501" y="206" key="FileChooserDialogImpl" timestamp="1604002666278">
+    <state x="501" y="206" key="FileChooserDialogImpl" timestamp="1604391325530">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state x="501" y="206" key="FileChooserDialogImpl/0.0.1366.740@0.0.1366.740" timestamp="1604002666278" />
-    <state x="560" y="271" key="Github.ShareDialog" timestamp="1604002742864">
+    <state x="501" y="206" key="FileChooserDialogImpl/0.0.1366.740@0.0.1366.740" timestamp="1604391325530" />
+    <state x="560" y="271" key="Github.ShareDialog" timestamp="1604396196376">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state x="560" y="271" key="Github.ShareDialog/0.0.1366.740@0.0.1366.740" timestamp="1604002742864" />
+    <state x="560" y="271" key="Github.ShareDialog/0.0.1366.740@0.0.1366.740" timestamp="1604396196376" />
     <state x="544" y="98" key="Github.UntrackedFilesDialog" timestamp="1603989167914">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
     <state x="544" y="98" key="Github.UntrackedFilesDialog/0.0.1366.740@0.0.1366.740" timestamp="1603989167914" />
-    <state x="0" y="2" key="SettingsEditor" timestamp="1604004289508">
+    <state x="0" y="2" key="SettingsEditor" timestamp="1604396888417">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state x="0" y="2" key="SettingsEditor/0.0.1366.740@0.0.1366.740" timestamp="1604004289508" />
-    <state x="218" y="166" key="Vcs.Push.Dialog.v2" timestamp="1604042646453">
+    <state x="0" y="2" key="SettingsEditor/0.0.1366.740@0.0.1366.740" timestamp="1604396888417" />
+    <state x="218" y="166" key="Vcs.Push.Dialog.v2" timestamp="1604397007573">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state x="218" y="166" key="Vcs.Push.Dialog.v2/0.0.1366.740@0.0.1366.740" timestamp="1604042646453" />
-    <state x="444" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603976871956">
+    <state x="218" y="166" key="Vcs.Push.Dialog.v2/0.0.1366.740@0.0.1366.740" timestamp="1604397007573" />
+    <state x="444" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604391454668">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state x="444" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.740@0.0.1366.740" timestamp="1603976871956" />
+    <state x="444" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.740@0.0.1366.740" timestamp="1604391454668" />
     <state x="339" y="176" key="run.anything.popup" timestamp="1603991927816">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
     <state x="339" y="176" key="run.anything.popup/0.0.1366.740@0.0.1366.740" timestamp="1603991927816" />
-    <state x="396" y="61" width="672" height="678" key="search.everywhere.popup" timestamp="1603818692196">
+    <state x="396" y="61" width="672" height="678" key="search.everywhere.popup" timestamp="1604396831570">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state x="396" y="61" width="672" height="678" key="search.everywhere.popup/0.0.1366.740@0.0.1366.740" timestamp="1603818692196" />
+    <state x="396" y="61" width="672" height="678" key="search.everywhere.popup/0.0.1366.740@0.0.1366.740" timestamp="1604396831570" />
   </component>
 </project>

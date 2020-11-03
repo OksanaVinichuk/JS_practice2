@@ -61,16 +61,16 @@
 // // 8. Вывести в окно браузера при помощи метода alert() следующие данные: Ваше ФИО, возраст, хобби (каждой на новой строки спомощью \n).
 //     alert('Вінічук О.Л.'+'\n'+'34р'+'\n'+'programming');
 //
-// //9. Создать 4 переменные с использованием ключевого слова let с именами str1, str2, str3, concatenation.
-// //   Переменной str1 присвоить фразу ‘Кто ‘, str2 – ‘ты ‘, str3 – ‘такой?’
-// //   Локальной переменной concatenation присвоить результат конкатенации 3-х строк: str1, str2, str3.
-// //   Вывести в документ содержимое переменной concatenation спомощью document.write
-//     let str1 = 'Хто';
-//     let str2 = 'ти';
-//     let str3 = 'такий?';
-//     let concatenation = str1+' '+ str2+' '+ str3;
-//     document.write(concatenation + "<br/>");
-//
+//9. Создать 4 переменные с использованием ключевого слова let с именами str1, str2, str3, concatenation.
+//   Переменной str1 присвоить фразу ‘Кто ‘, str2 – ‘ты ‘, str3 – ‘такой?’
+//   Локальной переменной concatenation присвоить результат конкатенации 3-х строк: str1, str2, str3.
+//   Вывести в документ содержимое переменной concatenation спомощью document.write
+    let str1 = 'Хто';
+    let str2 = 'ти';
+    let str3 = 'такий?';
+    let concatenation = str1+' '+ str2+' '+ str3;
+    document.write(concatenation + "<br/>");
+
 //10. Какие значения выведет в окно браузера следующий фрагмент кода?  и почему?
 //     let str = "20";                       //// expected output: 20
 //     let a = 5;                            //// expected output: 5

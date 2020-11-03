@@ -9,11 +9,11 @@ myDrinks('wine', '', 'in the evening');
 
 // 2. - створити функцію яка заповнює масив рандомними числами та виводить його. Для виведення використати попвередню функцію.
 function randomNumers(){
-    const myDrinks = [];
+    const array = [];
     for(let i=0; i<10; i++) {
-        myDrinks.push(Math.random())
+        array.push(Math.random())
     }
-    console.log(randomNumers);
+    console.log(array);
 }
 
 // 3. - створити функцію яка приймає три числа та виводить та повертає найменьше.
